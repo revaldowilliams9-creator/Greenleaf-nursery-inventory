@@ -33,5 +33,3 @@ pip install flask
 python app.py
 ```
 Then open `http://127.0.0` in your browser.
-
-I built this web application to practice connecting a Python backend to a relational SQLite database with full CRUD functionality. My goal was to replace static spreadsheets with a clean browser interface that enforces strict server-side input validation against negative prices or invalid product IDs.
