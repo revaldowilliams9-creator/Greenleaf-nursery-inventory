@@ -8,6 +8,9 @@ A lightweight full-stack web application built with **Python**, **Flask**, and *
 - **Live Inventory View (`/plants`):** Queries the database and renders a clean HTML table of plant IDs, names, and prices in ZAR (`R`).
 - **Validated Price Updates (`/update`):** Supports both `GET` and `POST` requests with server-side validation to reject missing fields, negative prices, or non-existent plant IDs.
 
+<img width="511" height="95" alt="image" src="https://github.com/user-attachments/assets/516fdddf-10ff-43f1-84c2-1d135c075ca6" />
+
+
 ## Application Routes
 
 | Route | Methods | Description |
