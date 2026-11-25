@@ -31,9 +31,6 @@ def home():
     <p><a href="/plants">View Plant Inventory</a> | <a href="/update">Update a Plant Price</a></p>
     """
 
-
-
-
 # ADDED ROUTES & LOGIC FOR UPDATING PLANT PRICES
 
 
