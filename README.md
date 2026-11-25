@@ -8,6 +8,10 @@ A lightweight full-stack web application built with **Python**, **Flask**, and *
 - **Live Inventory View (`/plants`):** Queries the database and renders a clean HTML table of plant IDs, names, and prices in ZAR (`R`).
 - **Validated Price Updates (`/update`):** Supports both `GET` and `POST` requests with server-side validation to reject missing fields, negative prices, or non-existent plant IDs.
 
+## 💡 Why I Built This 
+I built this web application to practice connecting a Python backend to a relational SQLite database with full CRUD functionality. My goal was to replace static spreadsheets with a clean browser interface that enforces strict server-side input validation against negative prices or invalid product IDs.
+
+
 <img width="958" height="129" alt="image" src="https://github.com/user-attachments/assets/15590339-79d0-4208-b924-c6821bcc8026" />
 
 
