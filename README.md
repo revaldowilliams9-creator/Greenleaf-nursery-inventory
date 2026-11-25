@@ -1,11 +1,25 @@
 # GreenLeaf Nursery Inventory Manager
 
-A lightweight web application built with Python, Flask, and SQLite that allows nursery staff to view current plant inventory and update retail pricing through a browser interface.
+A lightweight full-stack web application built with **Python**, **Flask**, and **SQLite** that allows nursery staff to view current plant inventory and dynamically update retail pricing through a browser interface.
 
 ## Features
 - **Automated Database Seeding:** Initializes a local SQLite database (`nursery.db`) and populates starter inventory on launch.
+- **Home Navigation Hub (`/`):** Provides quick browser navigation across inventory and pricing routes.
 - **Live Inventory View (`/plants`):** Queries the database and renders a clean HTML table of plant IDs, names, and prices in ZAR (`R`).
 - **Validated Price Updates (`/update`):** Supports both `GET` and `POST` requests with server-side validation to reject missing fields, negative prices, or non-existent plant IDs.
+
+## Application Routes
+
+| Route | Methods | Description |
+| :--- | :--- | :--- |
+| `/` | `GET` | Welcome page with navigation links to inventory and price updates |
+| `/plants` | `GET` | Displays the live plant catalog and current ZAR pricing |
+| `/update` | `GET`, `POST` | Form and backend handler for validating and updating plant prices |
+
+## Tech Stack
+- **Backend:** Python 3, Flask
+- **Database:** SQLite3
+- **Frontend:** HTML5
 
 ## Getting Started
 ```bash
