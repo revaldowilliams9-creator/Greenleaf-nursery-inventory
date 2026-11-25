@@ -26,7 +26,11 @@ initialize_database()
 
 @app.route("/")
 def home():
-    return "GreenLeaf Nursery App is running!"
+    return """
+    <h2>GreenLeaf Nursery App is running!</h2>
+    <p><a href="/plants">View Plant Inventory</a> | <a href="/update">Update a Plant Price</a></p>
+    """
+
 
 
 
