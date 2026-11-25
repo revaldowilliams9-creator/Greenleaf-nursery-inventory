@@ -11,6 +11,9 @@ A lightweight full-stack web application built with **Python**, **Flask**, and *
 <img width="511" height="95" alt="image" src="https://github.com/user-attachments/assets/516fdddf-10ff-43f1-84c2-1d135c075ca6" />
 
 
+<img width="958" height="129" alt="image" src="https://github.com/user-attachments/assets/15590339-79d0-4208-b924-c6821bcc8026" />
+
+
 ## Application Routes
 
 | Route | Methods | Description |
