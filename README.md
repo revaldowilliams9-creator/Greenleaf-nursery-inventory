@@ -32,7 +32,7 @@ I built this web application to practice connecting a Python backend to a relati
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com
+   git clone https://github.com/revaldowilliams9-creator/Greenleaf-nursery-inventory.git
    cd Greenleaf-nursery-inventory
    ```
 
