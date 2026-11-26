@@ -12,7 +12,8 @@ I built this web application to practice connecting a Python backend to a relati
 * 🛡️ **Validated Price Updates (`/update`):** Supports both `GET` and `POST` requests with server-side validation to reject missing fields, negative prices, or non-existent plant IDs.
 
 ## 📸 Live Preview
-<img width="700" height="130" alt="GreenLeaf Nursery Current Price List" src="https://github.com/user-attachments/assets/15590339-79d0-4208-b924-c6821bcc8026" />
+<img width="236" height="128" alt="image" src="https://github.com/user-attachments/assets/557405a9-446c-4f77-ac07-4dd528ca62e2" />
+
 
 ## 🛣️ Application Routes
 
