@@ -12,7 +12,7 @@ I built this web application to practice connecting a Python backend to a relati
 * 🛡️ **Validated Price Updates (`/update`):** Supports both `GET` and `POST` requests with server-side validation to reject missing fields, negative prices, or non-existent plant IDs.
 
 ## 📸 Live Preview
-<img width="236" height="128" alt="image" src="https://github.com/user-attachments/assets/557405a9-446c-4f77-ac07-4dd528ca62e2" />
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/557405a9-446c-4f77-ac07-4dd528ca62e2" />
 
 
 ## 🛣️ Application Routes
